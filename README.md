@@ -1,8 +1,5 @@
 # yunuscaninfo
 
-<!-- Masterhead -->
-[![MasterHead](https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif)](https://yunuscan.io)
-
 <h1 align="center">Hi 👋, I'm Yunuscan</h1>
 <h3 align="center">A passionate Backend Developer from Turkey</h3>
 
