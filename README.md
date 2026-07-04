@@ -1,7 +1,7 @@
 # yunuscaninfo
 
 <h1 align="center">Hi 👋, I'm Yunuscan</h1>
-<h3 align="center">A passionate Backend Developer from Turkey</h3>
+<h3 align="center">Backend Developer from Turkey</h3>
 
 <!-- Profile Coding GIF -->
 <p align="center">
@@ -38,9 +38,4 @@
   </a>
 </p>
 
----
 
-### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuscanbartik&show_icons=true&locale=en&layout=compact" alt="yunuscanbartik" />
-</p>
