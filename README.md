@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yunuscan Bartık</h1>
+<h1 align="center">Yunuscan Bartık</h1>
 <h3 align="center"> Backend Developer & Software Specialist</h3>
 
 <!-- Profile Coding GIF -->
@@ -8,11 +8,11 @@
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 4th-year Management Information Systems student and President of the MIS Club at Istanbul Aydın University.
-* 💼 Previously worked as a Software Specialist and Scrum Master.
-* 🌱 Currently focusing on **.NET (8/10), Clean Architecture, REST APIs**, and high-performance systems.
-* 🚀 Actively working on my B2B SaaS projects using ADO.NET and EF Core.
+### About Me
+* 4th-year Management Information Systems student and President of the MIS Club at Istanbul Aydın University.
+* Previously worked as a Software Specialist and Scrum Master.
+* Currently focusing on **.NET (8/10), Clean Architecture, REST APIs**, and high-performance systems.
+* Actively working on my B2B SaaS projects using ADO.NET and EF Core.
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 🧑‍💼 Connect with me:
+###  Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/yunuscanbartik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunuscanbartik" height="30" width="40" />
